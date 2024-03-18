@@ -1,2 +1,8 @@
 cmake
 gcc
+
+
+1. SEARCH for any movie of choice
+2. Get a list of the actors of that movie
+3. Ask the Ai to show you a picture of any random actor in that movie
+
